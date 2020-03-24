@@ -51,11 +51,11 @@ export default class Information extends Component {
         <Container>
           <div className="text-center mt-5">
             <h1>
-              {" "}
+              
               <strong className="text-success">
-                {" "}
+                
                 Afiliación de la Empresa
-              </strong>{" "}
+              </strong>
             </h1>
           </div>
 
