@@ -52,8 +52,7 @@ export default class Information extends Component {
           <div className="text-center mt-5">
             <h1>
               
-              <strong className="text-success">
-                
+              <strong className="text-success">                
                 Afiliación de la Empresa
               </strong>
             </h1>
